@@ -1,0 +1,1461 @@
+Text,Level,A1,A2,B1,B2,C1,C2,Labels,Text Count
+I bought both of them . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",6
+Can you speak Thai ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",4
+That dog running in circles is mine . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",8
+Please give me the time . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",6
+These seats are ours . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+I am trying to help you . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",7
+I need a new one . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",6
+We went to Hakone in the autumn . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",8
+Do you have any last words ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",6
+Katsue 's birthday is September 8th . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",7
+The car took us to school . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",7
+Why is the sky blue ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+She wants to play cards . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",6
+I like your denim jacket . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",6
+They put the food in bags . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",7
+Please tell your wife . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+Her daughter wants to become a personal trainer . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",9
+Can I have his cake ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+Is it your birthday ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",4
+Emma sat down next to her sister . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",8
+Our sun looks yellow . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+Are you in a league ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+Let 's try to read . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",6
+He 's always very nice . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",6
+Do you worry about what you eat ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",7
+Sheep and cows eat grass for food . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",8
+Give me a call before you leave . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",8
+My husband works hard . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+She said it was n't a good idea . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",9
+Say good - bye to her old life . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",9
+There were mice scratching in the walls . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",8
+The book is Murakami's . ,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+"Give her the pen , please . ",A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",7
+What is this song called ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+Please raise your hand if you have questions . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Sony has given me an interview next week . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Is this a one-way ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",4
+I want it badly . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+The masked man ran from the bank . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+I am a boy called Ned . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I do n't know where to look . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+No man wants to look weak . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+What I know wo n't help you . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+We need someone to cover his shift . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+I am trying to get my work done during the day so I can go out in the evening . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",20
+Do you want some Greek olives ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+"When the time comes , I will tell you . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+The bill was paid yesterday . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+This is my favorite slip . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+Do you think that it will work ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+Are there fewer chances now ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+Can you raise one eyebrow ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+He needed one in order to be friends with Tom . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",11
+I won the bet . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+I know this one will be bad . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+Please do n't touch mine . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+I 'm your new diving instructor . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I 'm so angry right now . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+This phone looks damaged . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+The boys tried to fly the kite . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+Bali is an Indonesian island . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+Which one is the managing director ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+"Although I 'm turning twenty today , I still feel like a child . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",14
+Think about what you have learned here . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+I need to get a job . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+We decided to go there on our own . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Please introduce me to your friend . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I know how to make curry . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I 've seen three people running by here in the last few minutes . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",14
+I 've never seen him use that racquet . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Mickey lent Goofy his gloves . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+I do n't know how to make this any clearer . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",11
+I really like being the boss . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+"Although you may not want to remember , I wo n't forget . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",13
+Do you belong to a gym ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+Tom told Jess his phone number before he left . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+I do n't know what you have in mind . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+Are you doing what I think you are doing ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+She bought those pants five years ago . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+"Okay , let 's get started . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+Could you please teach me to use this website ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+The room was so quiet I could hear every sound clearly . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",12
+It 's time for you to buy proper gear for running . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",12
+Many people agree that Brazilian women are beautiful . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+There was a room where the employees could take a break or eat lunch . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",15
+I 've never seen a Dutch oven before . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Microsoft has lost a lot of customers . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+They were sitting in the nurses ' station . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+You might hear from your colleague about the new business project . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",12
+I 'm flying on Thai Airlines . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+"If I wanted more , I could ask . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Please sit facing me . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+He 's from the Scottish Highlands . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+The cruise ships stop in Hawaii . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I ca n't tell you how sorry I am . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+My Uncle Bill discovered information about himself online . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Is there a bus to the hotel ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+This is played on a laptop . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+You 'll need to ask the editor about that . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+The painters all wore work pants . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I do n't know whether I should take care of him . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",12
+Is someone in there ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",4
+February is the shortest month . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+Would you make some more coffee ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+The rookie is good but needs more practice . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+The aikido uniform is called a dogi . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+Janet keeps her sewing room cluttered . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+Jane did n't know why Leon was homeless because he was clearly very smart . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",15
+Theirs is over there . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+The play reminds me of Shakespeare . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+"If you were an actor , what role would you want to play ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",13
+The monster whom Harry killed was Voldemort . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+I do n't think that he will play in the game tomorrow . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",13
+Liam works very fast . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+I stayed behind in order to study . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+James wanted nothing to do with Melissa . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+I saw theirs on Facebook . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+You look very pleased ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",4
+I told them my dog would stay inside today because of the heat . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",14
+John and his wife have sold furniture for years . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+Chikako is always so cheerful . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+The ships crossed the Arabian Sea . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+What are the different phases of the Moon called ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Could you please dry clean my suits ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I wish my boyfriend would stop looking at other girls . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",11
+I need someone who can fix my car . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Can you smell something burning ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+The rat bit the children on the face . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+The dogs ran around the living room . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+Which is the best way to get to Shinjuku ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Was there something you were concerned about ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+That is the world where they are from . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+My toast was a perfect golden brown . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+He said he thanked her but she ignored him . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+I never want to work for Amanda again . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Have you been there ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",4
+Who left all that hair in the bathroom ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+They stood holding hands . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+He finally started eating yogurt . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+The farmer brought his pig to the market . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Could you please eat more quietly ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+How was the vase broken if no one was at home ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",11
+He was as sad as I was . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+That cruise ship is huge ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+Dan 's birthday is in February . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+Carl decided to buy a new belt . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+The chef had a very big knife . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+The people sitting on the train were lucky to have seats . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",12
+My little brother loves talking . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+"If we were richer , we could travel . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Please write down what you think you should be paid . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",11
+"Since you do not have children or any other family , you will have nobody to take care of you . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",21
+My teapot is ceramic . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",5
+Let me know what you think is the best way to handle this situation . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",15
+Those fishermen only use nets . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+Can you teach me how to use the subway ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Emmy 's favorite animal is a fox . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+It 's not my idea of fun . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+We have been invited to go sailing on Saturday . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+Just say what you want to say . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+Put your back into it . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+Her foot blocked the ball . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+Did you hear what I just said to you ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+"Before you get angry , listen to me . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+She kept it on a shelf . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+Someone has just found my phone . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I am delighted to meet you . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+He walked around his new car to examine it . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+The engineer I met at dinner last night was an interesting man . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",13
+Social workers do n't make much money . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+You might meet Amanda there . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+We must keep on going . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+This is the area where she heard it . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+My mother loves black cherries . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+Natalie brought a bagel for Dylan . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I need to walk my dog . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+My mother is learning to take it easy . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Mother wants us to help her . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+I told them what I was thinking . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+Could you remind me what that man's name is ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+"Here , take this and do n't argue with me because I know you need it . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+The groom 's family is staying at the hotel . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+My little nephew is about waist high now . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The magician bent the spoon effortlessly . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The athletes gathered in Kona for Ironman . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+We 're just shooting the breeze . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The hikers found some money buried under a tree . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+The presents sat unopened under the tree . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+The biker rode through a group of pedestrians . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"In the movies , it seems like only the people who are good looking survive disasters . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+I do n't know whether it 's happening . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Marie was able to hand in her project two minutes before midnight . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+The displeased principal kept walking around the classroom . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Most women have wide hips . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+Do n't shake your head at me ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+How would you like me to frame this photo ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The boys shouting at the man were upset because he had stolen their backpacks . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+Wear a beige bra with that white shirt . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+You need to learn to work with William even though you dislike him . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+"George knew he was good at playing hide and seek , and advised Tina to hide between the wall and the tree . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",23
+If you wait a little there will be a definite answer . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"Even if you 've never seen a play before , this one is easy to follow . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+I keep going over it again and again in my mind . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+I would n't do that if I were you . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+The men came reeling down the street . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+There was nothing on the desk when I left your office . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+Each one was as big as a tennis ball . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+Sam always goes to MOMA when he visits New York City . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"Although Kat dislikes James , she still came to help him move . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+"Yes , I am impatient ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",5
+The woman stopped at the airport was searched for weapons . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+I really know nothing at all about those men's lives . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+It 's as easy as pie . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Will has been waiting for your reply for many days . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The boy doing kendama tricks is my son . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The surfers headed for the waves . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Nobody understands why you do n't have confidence when it 's obvious that you have great talent ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+I have never been someone who could stand up in front of a lot of people and speak . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+Let 's catch snowflakes on our tongues . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+I wish I knew why this website was taking so long to load . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+"If you found a dark spot on your skin , would you see a doctor ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+Jack walked toward the injured dog slowly and carefully . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+I wonder what they have in common . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+"During the summer , the children swim at the old pond . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+Her shelf was crowded with swimming trophies . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+I do n't mind working although I 'd rather be reading . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+I believe it is awful to cheat . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Ken yelled when a bee flew close by . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The handle is made of metal . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+I always wear an apron when I am cooking because I do n't want to spill anything on my clothes . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+And that was the moment when my computer died . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+I ca n't read your mind so I do n't know what you want unless you tell me . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+Of course I love ours the most . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+"Once he found out what he wanted to know , he never called again . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+There is a big Polish community in Melbourne . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The rules do n't allow you to work full-time . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+No money can buy the love of a family or friends . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+I do n't think that I will be there for Greg 's performance since I have a conference . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+We waited for at least two hours before we finally got to see Johnny Depp walk down the red carpet . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+Mrs.  Jones said she moved because she wanted to live in the city . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+The wire on the fence was as sharp as razors ; we knew there was no way through it . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+"It is too far for Jamie to walk to , especially because she is pregnant and easily exhausted . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+The ships headed for the Taiwanese coast . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Learn to face up to your mistakes . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Do n't you just wish that sometimes you could go into the stories you read and become one of the characters ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+I often use translator software . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+The little girl placed the doll carefully on her bed and kissed its cheek as gently as if it were a real boy . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",24
+"Before John 's allergic reaction gets worse , I think we should take him to a clinic so they can provide him with exactly what he needs . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",28
+I hope to send out all the invitations by tonight . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The classic game was called hangman . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Will you give me a taste of yours ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+The company changed its mind and decided not to fire us after all . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+Not all Japanese people read manga . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+How much is a roundtrip ticket ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+This lane is for people whose cars have electronic tags . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+I do n't know whether or not mother will allow you to do that . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+What we have done is given consent so you can make your own legal decisions . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+He only likes to take a jog during the night because it is too hot during the day . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+Nothing will get in his way . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Liam stayed around while Jess worked on her art assignment . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Dried bay leaves are often used in spaghetti sauce . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+Think before you say something hurtful . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+He is n't on either Joanne or Lia 's side because he wants to stay neutral . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+He pressed the button carefully because he was n't sure what it would do . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+A blacksmith could always find work . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+We just have to accept our son-in- law . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+I am pleased to learn this material . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Walking alone at night makes me nervous . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Abe is the current prime minister in Japan . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"On the tour , we saw the room where Hemingway wrote his most famous novel . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+"I did not know Max before the third grade , but after we met we became best friends . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+Those people talking on cellphones were rude . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Can Teflon be used in clothes ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+I 'll just take one and leave the rest for you . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+There was a stray dog sleeping between the buildings . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+It 's a good idea to plan to pay off some of your debts before you try to buy a house . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",22
+Israelis must serve in the military . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The copilot whom I met was dressed in an Air Canada uniform . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+No room is left for more chairs in the kitchen . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+It is a world where days never end . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The main thing that I wanted to say was to tell you how grateful I am for your friendship . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+Portland has many cyclists . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",5
+There is a grape stuck in my nostril . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+What I saw was a failure to act . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The seagulls came flying at us when they saw our sandwiches . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"If we were in charge of the government , I would pay more money to people who help people than to bankers . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",23
+Lisa was nervous at the party and stood next to her best friend the entire night . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+Someone who calls himself a leader must know how to lead . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"If we were willing to risk it , we could climb up on the roof to watch the moon . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+"Whenever I need to buy something new , I search for information in a catalogue . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+"I am sorry to bother you , but could you help me with this problem ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+Are there any schools you 're looking at in particular ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+My bike has a flat tire . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Learning to play the guitar seemed very easy for him . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+It is often difficult to know how to tell if someone is lying or not . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+A beret is a kind of hat . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+The cameraman was charged with murder . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+"Mom , can I get a second blazer ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Violent pictures turn my stomach . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+Sorry I was so gloomy today . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Here is something which will help . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+There is no way I can take all of these home . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+You are not helpless so pull it together . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Do you have a purse as small as this ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"If they were just a little older , I would n't have to drive them to those early morning practice games . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",22
+The store has changed its return policy so I ca n't get a refund . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+The brothers were as plump as their sisters . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+What I saw was beyond anything I had seen before . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The patisserie baked 20 cakes a day . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Reading too many romance novels will keep you feeling emotional . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Do you know the names of the people who brought these gifts ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+I 've run out of toothpaste and I need some badly . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+There has never been a more romantic story than this one . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"As we just saw , stock investments are not as safe as we once assumed they would be . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+They go golfing every weekend no matter how bad the weather is . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Freedom from Mubarak in Egypt has come with a very heavy price for ordinary citizens . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+I had a chance to see the Emperor at sumo . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+There is never only one way to do something . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+"Beth used to sleepwalk when she was younger , but she does n't anymore . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+He is the vice president of the PTA . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The sea breeze came through the open window . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"I knew they were only kidding , but it still hurt . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+I 've counted how many times she 's come late to work . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Mother wanted Mark to wear a nicer shirt . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Do you know when the Adams family is arriving ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Have you been singing in the choir ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+I told him the electric bill would be high if he left the lights on all the time . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+"Before flying off to America , Ally gave each of her siblings a big hug and a present . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+Everything here in this store costs as little as a dollar . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+The boys involved in the incident have apologized and offered to pay for the damage . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+The Boy Scouts was begun in 1910 according to some information that I read . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+Several black limousines were lined up outside . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Sally decided to change her life by moving to Europe . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+I believe it was unlikely that John will be awarded a full scholarship but I 'm sure he will get a partial scholarship . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",24
+Anna 's so mean that her boyfriend left her . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+They won because they are all team players . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"He could fix this for us if he were a programmer , but he ca n't write code . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+Clerks often play essential roles . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+The baby 's room was decorated in pastel colors . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+The boy riding his bike was hurt . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+None of them recognized the song playing in the restaurant . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Ryan has some of the most interesting sweaters . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"If I had been the one to make the decision , I would not have sent the boys out alone . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+There was nobody in the movie theater but us . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+No animal can run as fast as a cheetah . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+You are neither overweight nor too skinny . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Women who behave themselves do n't make history . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Acrylic paint dries quite quickly . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+His parents wish the police could find the person responsible for the hit and run accident . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+Parents carried their sleeping girls and boys back to their cars after the excitement of the late night fireworks display . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+"Go ahead , get it off your chest . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The number of people on his side of the church was much greater than the number on hers . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+James fell and scratched his elbow . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The babysitter gave him some grape juice . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Humidity causes my hair to curl . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The dying woman was surrounded by her children . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+There will be more options for you to choose from if you are open-minded . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+Can you believe what Ishihara said about how all foreigners were to blame for crime in Tokyo ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+The younger boys were working as hard as the older men . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"If I tried and failed , would you be disappointed in me ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+Paul was good at making mashed potatoes . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+You are too old to wear leather pants . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+She grabbed her son so as to stop him from falling . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+Is there enough money to order a pizza ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Do you know anything about the Bosnian War ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+We had just finished the test when the bell rang . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+My father told me to put my money in a bank . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+We must find something that will cause him to change his mind . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+My friend had a brass bed . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Get your elbows off the table . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The neighbors shoveling snow together became friends . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+The hockey teams whom he follows are mainly from the Western Division . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Don Cherry is a hockey commentator . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Gemma got free potatoes from her neighbors . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+I did n't see anything suspicious . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+It is far enough from the house to the ocean so we wo n't be affected by a tsunami . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+"If you had seen me last night , you would not have believed your eyes . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+Her computer would not allow us to access her files without a password . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+She is the program administrator so ask her . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Mohammed Ali was a famous boxer . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Shall I invite your colleagues to Sandra 's farewell party ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+I wish I had done more shopping while I was in Europe but the euro was too strong . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+What is the best thing you have ever done ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+I wish he was not in charge of the school . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Tomorrow we will wish we had not drunk so much . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+"Students write messages at temples , praying for a chance to pass exams . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+They have given us a chance to do it again . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+I know a girl who is smart and funny . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+Wayne Gretzky was one of the best hockey players of all time . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Mrs.  Dalloway finds giving parties enjoyable . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+His snowmobile fell through the ice . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+"No matter what anyone thinks , remember what you think is the right thing to do , and do it . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+She was n't sure how to respond to his angry email . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+Paul hated changing diapers . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",5
+The moon was as bright as a light bulb . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+My professor looked like someone I knew in high school but I could n't quite figure out who . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+Military personnel wear khaki uniforms in the desert . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+My brother asked me to pick up more bananas from the market on my way home . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+I wish our school group could go to Tohoku to join in the planting of the new seaside trees . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+He likes sticking his nose in other people 's business and gossiping about it . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+My aunt was a politician in Virginia . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+I do n't know how the four years of my undergraduate studies went by so quickly . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+The last fireworks display will be the biggest one . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+The Star Wars movies are about worlds where the forces of good and evil do battle . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+We used worms on our fishing hooks . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Good generals have exit plans . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+Are pencils still made with lead ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+It was there that he crashed his bike . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"While I was away , he finished writing one page of his twelve page essay . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+Even shells and beads were sometimes used as money in the distant past . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+Not all researchers wear lab coats . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+I love the graphics on my new hands - free computer program . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+"He told us if we gave him our wallets , we had nothing to fear . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+I prefer tea although I do drink coffee sometimes . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+"Although I saved a lot of money , I could n't buy one . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+Sometimes a mouse is trained to perform in shows . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+The nice gentleman went out of his way to give me his umbrella . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+Sylvia keeps her grade-point average high so that she can get a scholarship . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+Lina likes collecting postcards . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",5
+She 's already done the sweeping . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+England is famous for its bad weather where it is rarely sunny . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Jamie absolutely hated mushroom . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",5
+We saw all our cousins at the funeral . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Jenna is scary when she gets mad . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Do n't show your belly in public . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Hula dancers know how to move their hips . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The construction workers kept the site clean . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+The pool was filled with clean water . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Carla suddenly dropped her bags and ran out of the lecture room . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+The performers were taught exactly when to start dancing and singing within the play . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+I hear music but I do n't know where it 's coming from . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+Put the puck in the back of the net . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+It was from that point that our group realized that it would be impossible to finish by the deadline . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+"Since they won the game , the last goal must have been very rewarding . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+"If you keep the laundry too close to the heater , it may burn . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+Did you hear Obama 's speech about the new policies for the NSA ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+We talked all night to try to figure out the one thing that would change his mind . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+Silicon is a chemical element . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+You may change your major if you discuss it with your advisor . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Jess told us she knew where to find the best doctor . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+There were so many people against the World Cup being held in Brazil because they thought it would be unsafe . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+The dog looks guilty . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",5
+The girls were fighting for the right to attend school . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The new zookeeper was surprised to see a new baby elephant . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+Speaking your own mind can be as important as listening . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Their smiles seemed forced . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",5
+She needs new paint brushes for painting . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+I knew exactly what this group of boys was up to . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+The work would have been easier if you had been here to help me . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+She put her feet in the bathtub . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+I called but you were busy and I did n't want to interrupt . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+"If we went to that beach , could we park for free ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+Lana found a poisonous mushroom in the forest . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Liam got new shoes before the party . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+James is so organized that he 's never handed in late homework . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+I like seeing police boxes in my neighborhood . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+I want to get involved but there are so many clubs to choose from . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+We hiked to an area where there was fresh water . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+You must use these herbs to season the chicken . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+He is a poor college student and needs money badly . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Neither his older sister nor his younger sister has a job . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+He went to Greece but I do n't know what he 's doing . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+The men are having fruit with their dinner . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Do you know who your government representative is ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+I write for those who cannot speak for themselves . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+It is good to be friends with Andrea again . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+"All the bicycles in front of the station had been locked , so they were removed using tools . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+He likes reading but because of his bad eyesight he cannot read for very long . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+The hamster was afraid so it bit my finger with its little teeth . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+It was a world where people lived underground . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"When I dropped off my backpack in the locker room , I thought I saw yours in there too . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+I wish we could go away and not come back until the trial was over and he was put in prison . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",22
+My father showed me how to get my passport renewed . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Ben seemed talkative but he 's usually rather quiet . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+My parent 's rules do n't allow me to watch much TV . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+"Your new kitchen table looks just like ours , except for the color . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+I need to check the baby 's temperature . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Who won the NBA championship ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",5
+I got my cat a collar with bells . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+What we have to do is to change this setting . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Grandfather 's eyebrows are turning white . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Passengers are required to wear seatbelts . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+No parent likes to see their child suffering . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The dogs got tired from running at the park this afternoon . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+I may need to use the restroom soon . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+I 'm glad my roommate enjoyed her birthday party last night but it was a very noisy one . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+"If it crashes again , call the computer technician . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+"If you were a musician , what instrument would you play ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+"If we were musicians , wowwould n't that be great ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+I could hear the monks chanting . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+They passed many houses along the way . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+She added a tablespoon of lemon juice . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+They looked for a way to escape . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Moby Dick was the name of a whale . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+The government announced that the people who were responsible would be found and punished . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+I used to write for the local paper . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Please help me to make sense of this terrible news . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+I went upstairs while my boyfriend argued with his little brother about which team would win the World Cup . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+Typing quickly is something I 've become very good at . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Exercising more will help you to lose weight . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"If I had found an answer , we could have been saved . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+He must have misunderstood my instructions . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Samuel found the city of London quite exciting . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"Before your father goes in to get his surgery , you should go talk to him and give him comfort . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+It 's hard to find furniture made of wood . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+"If she went into the water , we would see her footprints . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Dan loves to travel internationally . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+Some children think their mothers are personal maids . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+I did n't mean to cause such a huge misunderstanding . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The climate here is very different from that of Sweden . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Fresh fish with lemon butter is my favorite dish . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+Liz was never taught when to stop playing . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"A duck 's foot is yellow , or orange , or sometimes almost brown . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+The boys quietly walked past their parents who were already asleep . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+They have given their approval . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+Kevin and Beth arrived a couple minutes before the concert . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Dad never gives us permission to go to rock concerts . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The puck flew into the crowd . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The crowd roared when he scored a goal . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+He was charged with making a false report . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Mrs.  Warner 's youngest daughter is always running around and is the most energetic one . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+Vicky always wanted a turtle . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+This leaf has some holes in it . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+The path ended at the place where the river began . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+She jogs at sunrise on most days . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Do n't feed the geese at the park . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+This is called pink gold . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+It 's important to know when to negotiate and when to walk away from a deal . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+The woman waiting in line in front of me began to shout when the clerks turned off the lights . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+"Have fun sometimes , or you will get stressed . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+The moonlight made the countryside shadowy . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+Eventually they all got what they wanted  Harry married Ginny and Hermione married Ron . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+I fought hard for my position in the debate . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+You should pull hard to ring the bell . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Some students share USB drives but I do n't like to share mine . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+I wish NTT would stop calling me at night to try to sell me a new Internet plan . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+Robert will get his nephew a birthday present . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+That is made from goat meat . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+When the doorbell rang I hurried to the door because I knew the book I ordered had finally arrived . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+These cucumbers are emerald green . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+It was the moment when he left . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+The big mess in the living room is the children's . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+A reusable rocket has been built by Elon Musk . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+Skater culture is popular right now . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+My three - year- old daughter falls on the floor and cries if she does n't get what she wants . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+It was on this spot where my husband proposed to me . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+The wind took the plastic bag high up in the air . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+The news of his death brought the meeting to a halt . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+The hawk flew down and grabbed a snake . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+He 's so pale that he looks sick . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+I 'll spread my cloak on the grass for us . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+That seems like a harsh punishment . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The court has n't decided the punishment yet . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Architects competed for the Olympic Stadium design . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Let 's get mom a bracelet for her birthday . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+"If he tried to stop suddenly , the brakes might lock . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"That looks a lot like ours , but it ca n't be because I left ours at home . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+He knows best when to plant each kind of flower and vegetable . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+There is a big difference between what is happening now and what they see as the next steps in what should be happening now . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",25
+"If you knew he was lying , would you tell his wife ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+There is no need to get so upset about the situation . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+My father cleaned the fish when we came home . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+The medicine kept Walter alive . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+He said he would think over the proposal because he still had to consider other factors concerning it . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+The beaches are crowded on sunny days . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+We had practice at the rink every morning . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Would you rather meet for lunch at your place or mine ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The programmer sat surrounded by computers . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+He crawled out of his bed . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+It is difficult to describe what we have seen . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+I have been writing sentences for millions of years . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+It is something which people should take seriously . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+He forgot to walk the dog last night so now there is a big mess to clean . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+"If it were n't so important , she would not keep reminding you to work on it . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+Alligator meat tastes like chicken . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+I always injure myself during basketball season . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+He broke all the current speed records . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+You can not always depend on others . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+He went on talking the entire night . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+"If it 's late when you come by , please knock quietly . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Nowadays cashiers can just scan products . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The man whom he had met as a child turned out later to be his real father . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+I did n't know why he was so picky about our date tonight until I realized it was our wedding anniversary . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",22
+He lied in order to get selected . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+He was our only child before the twins came along . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+One thing that I 've learned is to stay fit . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+A Streetcar named Desire is a famous movie . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+He picked pears to give to his friends . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Bill does n't ever bet any money though he goes to the horseraces very often . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Shall we include diagrams in our sociology presentation ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+Someone who is assertive is neither passive nor aggressive . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+The students celebrating the Japanese Women's Team win stayed up late into the night but cleaned up their mess before they left . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+Police have not yet identified the floating girl found yesterday but she is believed to be in her late teens . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+It might be better if we took mine --- it 's got air conditioning and gets better gas mileage . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+The soldiers bought themselves many rounds of imported beer after the war was over . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+This system allows us to monitor all in-coming and out-going payments . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"The children sat barefooted on the floor of the temple , waiting for food . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+The little boy spilled ice cream on his sneakers . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+It 's nice to see more interracial couples who are accepting of our differences . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+November is grow-a- moustache month . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",6
+"Because it is complicated , I 'll be happy to help you through the new registration process . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+The crease in his newly ironed pants was as sharp as a razor 's edge . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Nothing you do or say will ever stop Sally from chasing her dream of becoming a veterinarian . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+Amanda 's costume was almost identical to that of Tasha's . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+Sometimes people become irrational when they are emotional . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"Following the collapse of highways in Kobe after the earthquake , standards changed for new roads that were built . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+Pain relievers will help you to get rid of that headache . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+Only use qualified electricians . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",5
+You might improve your biology grades if you study more frequently . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+I avoid seeing my friends from high school because they are immature . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+The bike suddenly pulled out into the road . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"For those with money to invest , stocks are one option . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+It 's unusual to see a butler nowadays . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+The handicapped boys were mainstreamed into regular classes . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"He 'd been gone for nearly a year , but she still kept his clothes hanging neatly in the closet . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+A priest performs religious duties . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",6
+The leash keeps the dog from running away . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+The man sitting across the room looked oddly familiar . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+The judge called for order in the courtroom after the outburst . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"What I said was that I did n't believe in all the hype about global warming , not that I did n't believe in climate change . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+Crimson is a combination of red and purple . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+Writing down what I eat takes the pleasure out of eating . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+A strange odor was coming out of the apartment upstairs . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+John was herding his sheep . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",6
+Saturn is a ringed planet . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",6
+Cindy keeps her hair blond because she 's idolized Marilyn Monroe since she was a girl . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+These people whom you oppose are very powerful . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+I ca n't believe I got dragged along on a blind date . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+The wizard whom he lost was his godfather . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+She has a convertible BMW . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",6
+The women were rowing as hard as the men . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+They should fire that awful accountant . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",7
+What we really need to do is to figure out the priorities first . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+His favorite cartoonist is Gary Larsen . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",7
+I 'm happy to provide you with more information on the blueprint for the new infrastructure . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+He found what he believed was gold but was only pyrite . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+Anyone who tries to swim the English channel will find the water very cold and quite choppy . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+We have to figure out what to do about the power until the generator is fixed . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+Thinking about the impossible will keep you agitated . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+The woman whom some claimed to be the missing daughter of the Czar was proved to be a fraud . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+The sudden bright sun in December made the ice on the pond dazzling to the eye . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+It 's nice of Mark to be so appreciative . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+He puts Jamaican jerk on his meat . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+He told me I could get extra credits in college if I took summer classes but I did n't want to stay in the States during summer vacation . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",29
+"My grandfather has no teeth , so he wears dentures . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"If you contact your professor beforehand , you might be able to get an extension on your paper . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+Helen never walks late at night ever since her friend was robbed . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+The baby whose lungs were underdeveloped spent several weeks in the hospital . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+Jamie really liked Felicia 's floral blouse . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+This private matter was nothing to concern yourselves with . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"Although Ian is only 10 years old , his artwork is so refined and unique that it is almost better than that of professional artists . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+I watched the professor while she frantically looking for our exams . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+There must be a reexamination if the majority of the students scored less than 40  on the test . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+The actors whom the press often hounds are paying a high price for their fame . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Every good cook knows how to combine flavors to create delicious meals . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+People whose lives were changed by the tsunami were interviewed by NHK . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+Nothing has grown in our garden since we spread very powerful pesticide . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+Richard felt like he was annoying Jess with all the attention he was giving her . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+My friend thought her essay was graded so unfairly that she went to negotiate for a better grade . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+I am impatient in heavy traffic . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",7
+Most of what I learned in algebra I never used . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+Ben is not interested in doing business with us so we must stop pestering him . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The man is too aggressive and dangerous to interact with . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+This runny nose is making me miserable . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+She was n't able to communicate to anyone at the conference because she could n't speak any English . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+A woman whose pastime is dance might have trouble earning a living unless she is very skilled . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"The students took the elevator to the basement , where the professor conducted all of his experiments . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"Unfortunately , she is a parent whose rules must be enforced through guilt and manipulation instead of reason and trust . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+Hold your nostrils closed before you dive in . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+Are there a lot more companies not doing animal testing these days ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+My renewed application was denied . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",6
+Victoria was very good at changing Billy 's diaper . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+The wild horses came from ship wrecks . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+They raced their motorcycles through a dangerous intersection . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+Please pick up all these things that are scattered all over the floor . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+People whose voices are deep and sonorous often get radio and movie voice work . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+She 'll be furious if she finds out . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+Mrs.  Walters stood with her hands on her hips and a stern look on her face . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+His watch was broken ; he had no way to judge if he could arrive on time . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+Every store in Japan seemed to have wonderful lighting and decorations . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+Three Russian diplomats were expelled from the U. S. ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+People asking about their missing loved ones looked so desperate . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+She had her stomach stapled to lose weight . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"If I were an engineer , I would look for a chemical safer than water to use for geothermal energy production . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+You should do that late at night so you do n't irritate people . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+Peter 's vest made him look elegant . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+Japan must be a very strong nation to have become a leading economic force in so few years . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+There have been many opposition groups against Hitler 's ideology for decades now . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+Sally likes to wiggle her loose tooth to make the younger children laugh . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+Titanium is commonly found in the earth 's crust . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+I tried to do my homework but was distracted by my neighbor 's loud television . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+My older brother drives a rebuilt car . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+They were able to track the astronauts ' return and quickly get to the area where they landed . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"One of the first and most famous libraries was built in Alexandria , Egypt around the time of Ptolemy . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+"Although I had a three day weekend , I did n't get much done because I procrastinated most of the time . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",22
+Obokata 's research has been questioned since other researchers were unable to duplicate her method for creating STAP cells . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+Do you think that Carl will be the valedictorian of the class of 2017 ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",14
+There is more than one way to make a great lasagna . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",12
+2001 Heisei Ultraman Side Stories,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+1999 Special Edition bonus disc,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",5
+"Sucre was killed on June 4 , 1830 . ",A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",9
+There are four games in the series,A1,1,0,0,0,0,0,"[1, 0, 0, 0, 0, 0]",7
+The international yard is exactly 0. 9144 metres . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",9
+Magic is common in the game . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",7
+The pass is open only from May to November . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+Research on the Aha ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",4
+The ratio of height to width is 5 to 8 . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",11
+3Bf5 is most often played . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",6
+Exchange students from Italy and Germany help the students learn English . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",12
+"In 2010 , the band played in more than 150 concerts all over Europe . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",15
+"After one year , she opened the bookshop again . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",10
+Ramen comes in various shapes and lengths . ,A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",8
+"The mall opened its doors to the public August 11 , 1992 . ",A2,0,1,0,0,0,0,"[0, 1, 0, 0, 0, 0]",13
+An interval that is open does not include the beginning or the end . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+See  List of famous Bajan people,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",6
+There are several methods that can be used to solve a Rubik 's Revenge . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+There are five hiking trails on Hallasan . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+"However , the principle is applied very broadly beyond bottles to paint and automobile parts such as tires . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+Internet Explorer has introduced a number of extensions to the DOM that have been adopted by other browsers . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+A merger was proposed already in 1964 but did n't become reality until a meeting on 6 December 1992 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+"The main range was three storeys high , 42. 4 m by 5. 5 m .  Each floor was used for doubling - and there were 306 doubling machines . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",30
+The label K2 is still the name by which the mountain is commonly known . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+"On October 2 , 1658 he was chosen to the council of war . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+This coup was soon followed by his first world title in 1942 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Short - term memory is also known as working memory . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+He made his debut for Italy in 1958 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Acting as a provider of loans is one of the main tasks for financial institutions . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+Singapore has many Art Deco buildings from the 1920s and 1930s . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+Rempe began playing pool at the age of 6 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+Go - Toba took the throne at the age of three . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+A total of 31 players have been the captain of the Indian Test team so far . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+"However , the entry must be written to the backing store at some point in time . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+"s of 2009 , there are seven Roquefort producers . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+Grime emerged in the early 2000s in London . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Usually each partition contains exactly one file system . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+DCPIP is often used to measure the electron transport chain in plants . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+From 1968 to 1980 the bank worked mostly on meeting the basic needs of people in poor countries . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+A person who plays the trombone is called a trombonist or trombone player . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+"The following is the modern version , adopted in 1900 , without the vivid attacks against Spain . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+Up - and-over or overhead doors are often used in garages . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"The current flag was adopted on March 1 , 1961 . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+Sake Dean Mahomed also developed a fashionable massage . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"The smallest amount of time was 8 seconds , and the largest was 34 seconds . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+Arovell publishes modern literature in the German language . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"Only after the death of his mother in 1663 , he really assumed power . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+"After the meetings , the Councilors always take lunch together . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+"In most cases , contribution claims are made like the original claim itself . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+The release cycle has followed various schedules but currently aims for four releases per year . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+The 20 in diameter cannon accepted balls that weighed 175 kg . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+All- female bands are not restricted by mainstream genres . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+"The band also participated at Dansbandskampen 2009 , being one of the finalists . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+A major railway survey in April 1961 was used in the writing of a government report on the future of the network . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",23
+"There are 27 civil police forces in Brazil , one for each state . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+"A triple flat can be found , but it is very rare . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+OBO carriers are today not as common as in the 1970s and 1980s . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+Hi - Five has released three studio albums and one mini-album . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+All places and objects listed on the register are entitled to a blue sign . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+"Although pin stripes are found in mostly in men's suits , any type of fabric can be pin striped . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+"Food and equipment are brought to the South Base Camp by Sherpas or porters , with the help of animals like yaks . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",23
+Hard - boiled eggs are completely cooked . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+It was ruled by a king called a Bai or Obai . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"People with BPD feel emotions more easily , more deeply and for longer than others do . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+A commercial failure is a product that does not complete a goal . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+A full-time etiquette coach was hired . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+The seventh and final king of Rome was Lucius Tarquinius Superbus . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"All formulas in this article are correct in SI units , but in other unit systems , the formulas may need to be changed . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",25
+Ri possibly gave birth to a child in 2010 ; sources have reported it is a boy . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+LEED is not a standard but an evaluation grid . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+Eyewitnesses described the scene of the execution by burning on 30 May 1431 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+The club have had a number of different kit manufacturers since the 1970s . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+Shabbat is a day of celebration as well as prayer . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+On 29 April 1789 he was caught stealing food . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+The title of chess expert is not awarded for life . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The methods used cover both static and dynamic situations . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+Clarin remains a rather unknown figure in the Spanish literary world . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+The first electronic version of the dictionary was made available in 1988 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+Fireworks dates back to the 7th century and originated in China . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+In the following area local calls must be dialed using the area code from the date shown . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+In March 1944 a military training camp was set up at the lake . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+The primary colors always appear on the color wheel . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+"In its basic form , it is simple and strong . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+"It is named because it is close and looks like the Great Sandy Desert , but it is much smaller . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+"During the 1990s , the mansion had a  4. 4 million improvement program . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+Public speakers may use audience response systems . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+"Agent 47 's appearance consisted of a pure black suit , black leather gloves , a white dress shirt and a red tie . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",24
+The Dr.  I was used only in small numbers and it had many problems . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+It was originally planned to be taken into use for the 2009  2010 season . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+Similarities in his musical style with the earlier works of Mozart have often been noted . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+In 1955 he graduated clarinet successfully . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+More grab poles were also added . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",7
+"At present , the school has already 40 sets of computers and other facilities needed by the growing population . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+There seems to be a two phase process . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"In the 1880s , he worked as chief engineer of a railroad India . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+On the north side of the gate are two plaques . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+"Today there are only six known species of lungfish , living only in Africa , South America and Australia . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+"He stepped up to single-seaters at the end of 2002 , when he competed in the British Formula Renault Winter Series . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",22
+"Now known simply as Opera , the browser has become very popular despite the competition . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+"Following the decision to withdraw tram services in London and replace them with buses , the station closed just after 12. 30 am on 6 April 1952 . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",28
+The building was founded as a brass factory . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"Late in the 19th century , after the invention of telephones and microphones , the electric hearing aids was created . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+The notion of modern art is closely related to Modernism . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The house was built in 1750 ; there was an addition added in the 1820s . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+"In 1892 he went to Paris , where he taught singing , and he coached many American and French artists for the operatic stage . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",25
+The first child born from egg donation was in 1983 in Australia . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+History was written about states or nations during the Renaissance . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+"The center ultimately opened to the public on December 16 , 1997 . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+The first paper issues of the Australian dollar were issued in 1966 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+"The game was separated into five episodes , released in two -month intervals . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+He played a brief part in the revolutionary events of 1848 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+Car rentals are subject to many conditions which vary from one brand to another . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+"As of the 2011 testing season , exams cost  87 each , though the cost may reduced for poor students who cannot pay for it . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",26
+"In many countries , drowning is one of the main causes of preventable death for children under 12 years old . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+He received 2. 33  of the vote in the first round of the 2002 French presidential election . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+Many groups from India have set up training camps in the southern part of the country . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+In the late 1980s and early 1990s the number of cars attempting to enter each race was as high as 39 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",22
+It was not until the late 1980s that interest was awakened in the old building . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+"The silver birch is a medium-sized tree , which has triangle - shaped leaves . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+Mermaids could also swim up rivers to freshwater lakes . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+"A special Christmas family meal is traditionally an important part of the holiday 's celebration , and the food that is served varies greatly from country to country . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",29
+"At the beginning of the 1940s , the track needed more improvement . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+"During the late twentieth century , more and more mosques have been used for political purposes . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+"Several former cast members are scheduled to return to the show , or have been asked back . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+A significant factor is the energy needed for a reasonable travel time . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+The show also has slang not used in today 's culture . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"Plans exist for a cinema , a DIY and a clothing store . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+"In 2012 the event was visited by totally 50 700 people , which meant a new record had been broken . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",21
+Llullaillaco is a stratovolcano which rises 2200 m above the surrounding terrain . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+There are more than 90 flavors worldwide . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Appointments to both Orders stopped after 14 August 1947 . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+The paper also became more openly political during the time of punk . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+"To the band 's surprise , the song became a hit at prom dances . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+This suborder contains only two families at present . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+Following the key signature is the time signature . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+All the seeds made it through the first round without incident . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"In Europe , basil is placed in the hands of the dead to ensure a safe journey . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",18
+"Furthermore , legacy applications that attempt to access hardware directly cannot do so in user mode . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+"In 1913 , he became ill and had to have teeth removed . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",13
+In 1882 a police camp was set up that allowed a small settlement to develop . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+His paintings are usually single figures of beautiful women . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+A Boiler Room Brawl is a match where two wrestlers fight in a boiler room . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",16
+"In the northwestern hills of the state , there are more northern - hardwood type trees . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",17
+There is no musical introduction except drumrolls announcing the beginning of the scene . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",14
+"In some Asian cultures , ceremonies also play an important social role , for example the tea ceremony . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",19
+It was never intended as a teaching tool . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",9
+"The pelican eel 's most notable feature is its large mouth , which is much larger than its body . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",20
+This is a list of the tallest structures in Australia . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+The stage is empty while the music creates a thunder storm . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+"Reading right to left , top to bottom , the symbols are as follows . ",B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",15
+He was educated at the Jesuit college in Rome . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",10
+One or more contestants would walk on . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",8
+Road density is 3. 83 kilometer per square kilometer of land . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",12
+The median age in the city was 43. 2 years . ,B1,0,0,1,0,0,0,"[0, 0, 1, 0, 0, 0]",11
+"Once boot options have been selected , GRUB loads the selected kernel into memory and passes control to the kernel . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+"In the very early versions of quicksort , the leftmost element of the partition would often be chosen as the pivot element . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+"Passes are synced between iOS devices using iCloud , and OS X 10. 8. 2 and later also support opening passes to be sent to users ' iOS devices . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",30
+"That night , the animals throw a party in the barn . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"In 2005 , a poll of 2,000 people revealed the pepper to be Britain 's fourth - favorite culinary vegetable . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+"Hubs can be used for  Historically , the main reason for purchasing hubs rather than switches was their price . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+"If a player does not roll any pairs during his turn , the dice are passed to the player on the right . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+"In contrast , a real image is one that is formed when the outgoing rays from a point converge at a real location . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"Margarita enters naked into the realm of night , after she learns to fly , and control her unleashed passions . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+"In British English , a car of this configuration is called a saloon . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+The development team chose to not include lethal weapons in the game . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+"There is a huge statue erected in honor of all the Netherlands sea-rescuers , opened in 1935 and is sometimes mistakenly assumed to honor Dorus . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+Generating accurate true-color images from Mars 's surface is surprisingly complicated . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"Despite having many troubles during his reign , Arshak II was able to change many parts of his kingdom for the better . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+India was not affected by the imperial order-in- council of 1825 that attempted to introduce the British sterling coinage to the British colonies . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"PEC is often described in the media as a pressure group , and regularly makes public comment about language - related news stories , particularly jargon . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+It is possible to walk upon the walls for roughly half the circumference . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"Because the verses were written in Greek , the keepers would always be helped by two Greek translators . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"This constellation should not be confused with Lupus , the wolf . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"In May 1863 , the inspector-general had directed the police to act on their own initiative . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+Swardspeak is a kind of Taglish and Englog used by gay people . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+About ten distinct IFNs have been identified in mammals ; seven of these have been described for humans . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+A harmonium and handclaps were added on July 16 . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"Some engineering students and engineers carried ten-inch slide rules in belt holsters , and even into the mid 1970s this was a common sight on campuses . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+Skyrmions are important in the emerging solid state technology of spintronics where they promise data storage at much higher densities than ever before . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+Tuckwell left the orchestra in 1968 and spent the rest of his career performing as a soloist and conductor . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+Drumrolls announce the beginning of the Second Tableau . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"Waterbeds primarily consist of two types , hard - sided beds and soft-sided beds . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+Frontal bossing is when the forehead becomes bigger than normal which may also make the brow ridge stick out more . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+The Old Bridge Township Public Schools serve students in kindergarten through twelfth grade . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+The role of a gamemaster in an online game is to enforce the game 's rules and provide general customer service . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+"Confetti are made in a variety of colors , and commercially available confetti come in many different shapes . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+Transliteration is the letter-for-letter representation of text using a Latin writing system . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+The tower began to sink after construction had progressed to the second floor in 1178 . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"There are 242 tokens on the disc , comprising 45 distinct signs . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+"IP versions 0 to 3 were experimental versions , used between 1977 and 1979 . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+A series is the sum of all the terms of a sequence . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+"JLab houses the world 's most powerful tunable free-electron laser , with an output of over 14 kilowatts . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+Mooselookmeguntic Lake is one of the longest place names in the United States . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"Most , if not all , of the world 's religions promote selflessness as a very important moral value . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+Strong 's endorsement of left-wing causes set her apart from her colleagues on the school board . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+The chassis are made of chrome moly tubing . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"On firearms , bipods are commonly used on rifles and machine guns to provide a forward rest and reduce motion . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+Managing and Operating on frequency tabulated data is much simpler than operation on raw data . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Two equations are equivalent if they have the same set of solutions . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+"Although the sweet potato is not closely related botanically to the common potato , they have a shared etymology . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+"Tal played in a total of six Candidates ' tournaments and match cycles , though he never again earned the right to play for the world title . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",28
+"In some photos , the crosshairs are rotated . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+A consumer is a person that buys a good for consumption . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+Ash has considerably improved his abilities as a trainer over the course of the series . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The burden of proof is always on the person who brings a claim in a dispute . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+It won the award for best pie in football two years running and attracted quite a reputation amongst away fans for its quality . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+The square root of two was the first known irrational number . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+Kwanzaa is a celebration with its roots in the black nationalist movement of the 1960s . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The guaracha is a genre of rapid tempo and with lyrics . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+The flavor of matcha is dominated by its amino acids . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"In Italy , the madrigal was the most important secular form of music of its time . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+"Two nearly identical seven story parking ramps on east and west sides provide 12,550 parking spaces . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+The name was given to this bay by colonists who saw a large bird that they called a buzzard near its shores . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+"A kitchen stove , cooker , or cookstove is a kitchen appliance designed for the purpose of cooking food . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+"Whether counsel is retained or appointed , the defendant has a right to counsel without a conflict of interest . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+"Bharal are active throughout the day , feeding and resting on the grassy mountain slopes . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+After the Baroque period composers did not often write toccatas . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"A for-loop has two parts  a header specifying the iteration , and a body which is executed once per iteration . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+"In 1964 and 1965 , 12 rockets were launched from Carnarvon to a maximum altitude of 120 km . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+Orders of magnitude are generally used to make very approximate comparisons . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+There are several types of wordplay used in cryptics . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"A grenade explosion blew Apiata off the bonnet of his vehicle , where he had been sleeping . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"The first , simple optical printers were constructed in the early 1920s . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+The value of the Hamiltonian is the total energy of the thing being described . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"Most myosin molecules are composed of a head , neck , and tail domain . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+The second method uses a sliding linear L scale available on some models . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"Academic research into wide area networks can be broken down into three areas  mathematical models , network emulation and network simulation . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+"Islam also has its own form of Theistic evolution , which says that mainstream scientific analysis of the origin of the universe is supported by the Qur'an . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",28
+"Tuning a timpani by turning every tension rod by itself can be very hard , so some timpani makers invented different ways to change the drum 's pitch more quickly . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",31
+"The following table is a list of MPs elected on 5 May 2005 , ordered by constituency . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+The first ballads were created by British and Irish settlers and convicts who brought with them the folk music of their homelands . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+"There are two principal workarounds to this problem , which substitute digraphs for the accented letters . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+Oral sex is genital stimulation by the mouth . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"In computing , at least internally , metric time gained widespread use for ease of computation . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+"In order for an officer to seize an item , the officer must have probable cause to believe the item is evidence of a crime or is contraband . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",29
+"However , the player can capture pieces on his HOME box . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+Busoni made a considerable number of piano rolls ; a few of them have been re-recorded and released on vinyl LP and CD . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"Another , more classical , form of handrailing which is still in use is the tangent method . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+The colors indicate the political party or coalition of each President at Election Day . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"On his return to Rome , he was elected as military tribune , a first step in a political career . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+"While several real-world leaders exist in the show 's universe , most foreign countries have fictional rulers . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+Sharpie markers are made with a number of tips . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+As the price of scrap metal has increased plaques have been the target of metal thieves wishing to resell the metal for cash . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"Ockeghem was not a composer who wrote lots of music , but it is hard to tell as some of it might have got lost . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+The airport resides at an elevation of 313 ft above mean sea level . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+The cause of the vibrations during the first stage of the flight was well known . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Gunnora signed many ducal charters up into the 1020s . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"He starts to be interested in Reggae music very early , and at the age of 15 , he composes his first song . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"Brain played a lot of chamber music , forming a wind quintet with his brother in 1946 . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"The individual mineral grains in schist , drawn out into flaky scales by heat and pressure , can be seen by the naked eye . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",25
+Other names are used for corduroy . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",7
+The grains of basmati rice are longer than most other types of rice . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"Individual rolls of 135 film are enclosed in single-spool , light - tight , metal cassettes to allow cameras to be loaded in daylight . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",25
+"The main disadvantages of circular slide rules are the difficulty in locating figures along a dish , and limited number of scales . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+Ferrets are known to suffer from several distinct health problems . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+These incidents led to reforms in the packaging of over- the -counter medications and to federal anti-tampering laws . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"In the game , the player takes on the role of a lord who rules over a medieval castle . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+The next step is to make notches every foot or two of the log . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+These proposals are centered on creating an independent internet identity for linguistic and cultural communities . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"In the center is a machete and hoe , representing the revolution through which the nation gained independence and the importance of agricultural workers . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",25
+"In 1994 , the castle complex was made a national historical and cultural reserve . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+The first six of her novels gave little indication of the experimental and disturbing nature of her later work published after her detox treatment . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",25
+"In modern practice , the bow is almost always held in the right hand while the left is used for fingering . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+There is a large variety of colleges in the SUNY system with some overlap in specialties between sites . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"Dimensional lumber is lumber that is cut to standardized width and depth , specified in inches . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+"On February 28 , 2007 , new designs of the 5 to 50 naira banknotes were introduced . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"All Group 11 elements are relatively inert , corrosion - resistant metals . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+The Emperor of China learns that one of the most beautiful things in his empire is the song of the nightingale . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+"The Orange Free State is mostly flat , because it lies in the center of the high plateau . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"Boats may be sailed using a jib alone , but more commonly jibs make a minor direct contribution to propulsion compared to a main sail . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+"In November 1942 , a tram was accidentally set in motion whilst parked up overnight . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The old cemetery caved into the river around 1937 . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+It was the German paratroopers ' only night time drop during World War II . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+Curse tablets are typically very thin sheets of lead with the text scratched on in tiny letters . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"From 1990 , the banks of the Wear were regenerated with the creation of housing , retail parks and business centers on former shipbuilding sites . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+"On an international basis , poets may submit their poems . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+Today nothing but stone ruins and the elevated railway water tank remain of the township . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Nahuatl has been spoken in central Mexico since at least the seventh century CE . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"Eun-yi succumbs to the effects of the poison , and Mi-hee arranges an abortion without Eun-yi 's consent . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+An iron man match is a multiple - fall match with a set time limit . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"Nausea is a non-specific symptom , which means that it has many possible causes . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"In mathematics , the number four is an even number and the smallest composite number . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Whitbourne has many of the facilities of a small town that has traditionally been a regional service center . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"A hall boy could rise through the ranks and , if fortunate , eventually become a valet or butler . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+"Although the need for a better airport was acknowledged in 37 studies conducted between 1926 and 1938 , there was a statutory prohibition against federal development of airports . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",29
+On single-reed instruments like a clarinet or saxophone the mouthpiece is shaped like a wedge . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Gang rapes usually involve three or more men as the ones who commit the crime . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"The mons pubis is the soft mound of fatty tissue at the front of the vulva , in the pubic region covering the pubic bone . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+"Beech grows on a wide range of soil types , acid or basic , provided they are not wet for long periods . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+"During World War I , the British had already accused Germany of using the fat from human bodies to make things . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+The full official title of the police service is rarely used in speech . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"An international airport may have two one - way loop roads , one for departures and one for arrivals . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+Virenque was criticized by the media and satirists for his denial in the face of increasing evidence and his pretence of having been doped without his knowledge . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",28
+Things that do not exist at any particular place and time are often considered abstract . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+This phrase is British in origin and derives from sports that use goalposts . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+The melodic and harmonic versions of the scale are written in with accidentals as necessary . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"Further anatomical study led him to the conclusion that 'individual Africans differ as much , or even more , from other Africans as from Europeans ' . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+An aspis was deeply dished and made primarily of wood . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"Noodles are usually cooked in boiling water , sometimes with cooking oil or salt added . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"As emo entered the mainstream , it became a subculture . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"In modern times , even the practice of animal sacrifice has disappeared from some religions , and human sacrifice has become extremely rare . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"Traditionally , globes were manufactured by gluing a printed paper map onto a sphere , often made from wood . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+"Due to its position , the hyoid bone does not fracture easily . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+The protected area is part of the Terai-Duar savanna and grasslands ecoregion . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+The image below presents outdated usage of various video game content rating systems around the world . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+"Following the explosion , police cleared the area and searched for any additional explosive devices . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+It is hard and crisp but juicy . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+"In 1943 , he became assistant director in charge of mechanization and also had responsibility for cryptographic liaison with the US . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+"After the negotiations to end apartheid in South Africa commenced in 1990 , the nation re-joined the Olympic movement . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+Lovins and Price say that these two different sets of personal values lead to two very different policy paths relating to future energy supplies . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",25
+The stand also incorporates a traditional players ' tunnel in the center . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+A harp tuned to C-sharp major has all its pedals in the bottom position . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+Ammunition makers often offer several bullet weights and types for a given cartridge . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+Logic is the study of reasoning and argument . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"The first Reformed Churches were established in Europe in the 1500s , in the wake of the Protestant Reformation . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+The British Sovereign serves as the Sovereign of the Order . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"The evolutionary history of scorpions goes back to the Silurian , 430 million years ago . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"However , because conventions are not textually based , their existence and practice are open to debate . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"In the end the use of neusis was deemed acceptable only when the two other , higher categories of constructions did not offer a solution . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+"The municipality key consists of eight digits , which are generated as follows  The first two numbers designate the individual German state . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+"She persuaded her husband to give her a grove of mulberry trees , where she could domesticate the worms that made these cocoons . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+We write a mass number after an element 's name or as a superscript to the left of an element 's symbol . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+A genetic counselor is an expert with a Master of Science degree in genetic counseling . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The On-ice official category has been in existence since 1961 and since then sixteen have been inducted . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"Gunfire can be confused with other noises that can sound similar , such as firework explosions and cars backfiring . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+"The badges for enlisted men were cut from colored cloth , while officer 's badges were privately made and of a higher quality . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+Yuccas are widely grown as ornamental plants in gardens . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"The short - beaked common dolphin is a medium-sized dolphin , but is smaller than the other species of the genus Delphinus , the long- beaked common dolphin . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",29
+The palm branch was a symbol of triumph and victory in pre-Christian times . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"Ultimately , the temperatures near the bottom of the geyser rise to a point where boiling begins which forces steam bubbles to rise to the top of the column . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",30
+"There are several materials used in saws , with each of its own specifications . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+Some species of starfish can regenerate lost arms . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+Much of the city is located on a low range of hills running parallel to the coast . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"The saker and falcon had ranges of 360 and 320 yards if fired straight at the target , and 2,170 and 1,920 yards if fired in an upward arc . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",30
+"A well - known example of failing overcompensation , can be seen in people going through a mid life crisis . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+"Institutions and towns may hold firework displays and bonfire parties , and the same is done on a smaller scale in back gardens throughout the country . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+Pavement lights and related products were historically marketed as a way of saving on artificial lighting costs and making space more usable and pleasant . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",25
+"Stretching , in its most basic form , is a natural and instinctive activity ; it is done by many animals including humans . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"At first , people believed that sometime in the 7th or 8th century , the city was sacked and burned by invaders . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+The state agency operates with an annual appropriation of approximately six million dollars and approximately 100 employees . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"Since the beginning , platforms have been at least 155 m long to accommodate eight - car trains . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"If quarterbacks do n't like the formation the defense is using , they may use an audible . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"Once opened and populated , they typically offer only the most bare - bones of service  a cot and perhaps a bowl of hot soup . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+"Trays are flat , but with raised edges to stop things from sliding off them . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"Flatbed trucks have an entirely flat , level platform body . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"Boomerang coasters have occasionally stalled , often in the Cobra Roll element . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+Many of his examples are based on the square- cube law . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"The start of the season was unpredictable , with seven different drivers winning the first seven races of the championship ; a record for the series . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+"In the times of ancient Greece and Rome , handkerchiefs were often used the way they are today . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+Modern instruments classified as bugles are often valved . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"The third act is dominated by the puppet show , a play within the play . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"Zwartbles are now mainly used to produce breeding stock , meat and wool . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"Embedded systems often reside in machines that are expected to run continuously for years without errors , and in some cases recover by themselves if an error occurs . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",29
+Chameleons have the most distinctive eyes of any reptile . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+There are various methods used to treat phobias . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"A waggle dance consists of one to 100 or more circuits , each of which consists of two phases  the waggle phase and the return phase . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+The vitamin is the largest and most structurally complicated vitamin . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"In recent years , due to noise pollution , increasing speed is getting harder . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"On impact with the target , a delayed action fuze is triggered . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+Realistic space try to copy the behavior of a vessel under the laws of physics . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"Reserved code elements are codes which , while not ISO 3166 - 1 codes , are in use for some applications in conjunction with the ISO 3166 codes . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",29
+"Depending on the culture , and family and social structures , same - sex preferences have been found to develop between 3 and 9 years old . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+"Made of basalt , it measures 2. 43 metres by 0. 92 metres and is 20 centimetres thick . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"Since the development of technology , Transmission and storage systems have been of immense interest to technologists and technology users . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+Grooves are used for several purposes in cabinet making and other woodworking fields . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+The marbled polecat is found from southeast Europe to Russia and China . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+"In an extension of his ionic theory Arrhenius proposed definitions for acids and bases , in 1884 . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+Transposable elements represent one of several types of mobile genetic elements . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"A cyclist must wear the jersey when competing in the same discipline , category and speciality that he is world champion for . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+The shield itself consists of many components . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+The vibrant colors of the coat of arms are to point to a bright future for the islands . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+ICs have two main advantages over discrete circuits  cost and performance . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"Stotting makes a prey animal more visible , and uses up time and energy that could be spent on escaping from the predator . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+Heather is an important food source for various sheep and deer which can graze the tips of the plants when snow covers low growing vegetation . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+Events seemed to prove the omens right . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+"Many Internet users have been tricked into looking at the site at one time or another , it has become something of an Internet meme . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",26
+Basil suffers from several plant diseases that can ruin the crop and reduce yield . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+Parish councils are run by volunteer councilors who are elected to serve for four years and are not paid . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+Provisional results are the ballot counts for individual walk - in voting centers . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+The growth and development of the Ediacara biota is also important . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+No mention of them has been found in contemporary accounts or pictures of the time . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Chinese pistols are in demand in the illegal small arms market in India because they are easy to get and cheaper . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+Being childless was considered unusual in the 1950s . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"In Canada , charters are granted by provincial authorities . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"Many brands of ready sliced bread are available , some of which specifically market their suitability for toasting . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+A number of craters lie embedded within this range . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"Depending on the size of the motorcade and who it is carrying , routes may be completely blockaded from the general public . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+"In order to judge if a language is actually endangered , the number of speakers is less important than the distribution among age cohorts . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",25
+The lack of hair can cause health issues with kittens in the first weeks of life because they can get sick with respiratory infections . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",25
+"The 91 antelope species , most of which are native to Africa , occur in about 30 genera . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"Unlike the US , countries in Europe impose substantial taxes on fuels such as gasoline . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The characteristics of this secret or key are determined by the system which uses it ; some system require that such keys be in a specific format . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",28
+"In 2004 , charges were laid against seven men living on Pitcairn and six living abroad . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+Kumquats are much hardier than citrus plants such as oranges . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"SCRs are mainly used in devices for the control of high power , perhaps with high voltage . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+The earliest playwright in Western literature with surviving works are the Ancient Greeks . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"When players encounter enemies in either scripted events or random encounters , they enter a battle mode . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+The list is sorted by occupation and by nationality . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+Flamsteed calculated the solar eclipses of 1666 and 1668 . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"The entire synod is divided into 35 districts , usually representing a specific geographic area . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The oldest khachkars in the cemetery go back to the late 10th century . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"Birds and animals of all sorts began to enrich her garden , where they were allowed to roam free among the grounds . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+"The textile and manufacturing sectors across Scotland suffered significant decline in the post-war period and in particular from the 1960s , in the face of greater foreign competition . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",29
+These six exceptions are and the verbs formed out of them using prefixes . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"s of 2019 , SkyTeam flies to more than 1,150 destinations in more than 175 countries and operates more than 14,500 daily flights . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"Upon receiving its classification , the depression consisted of a partially exposed low-level center with deep convection occupying the northeastern semicircle . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+The gulf receives the runoff from the watersheds of 12 rivers . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+Creos is working towards the national electric vehicle objective that consists of installing 800 public charging stations for electric cars and hybrid plug- in cars across the country by 2020 . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",31
+"The shot put event was first seen in the Middle Ages , when they would throw cannonballs at their enemies . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+Many of the recurring characters of the series have received traits based on the respective element . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+Sword dances include long sword dances and rapper dancing . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"Mapother has become widely known as a character actor , who sometimes plays scary or otherwise dark characters . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+The theory of their use in sexual display was first proposed by Davitashvili in 1961 and has gained increasing acceptance since . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+Newsam started to lose his eyesight in the year 1857 . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"In their usual habitat , chinchillas live either in burrows , or in crevices of rocks . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+A faux mixing of Romance languages occurs in the last three lines of the song . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The name of the league is leased to a general sponsor and changes frequently . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"The indie game scene started on PCs , where it remains prominent . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+"Cork led 1 - 9 to 1 - 6 at half -time , but went on to rue missed chances . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+"White mustard seeds are hard and round , usually around 1 to 1. 5 millimetres , with a color forming from beige or yellow to light brown . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",28
+The Weeks family began to suffer from a series of family tragedies almost at once after the completion of the house . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+"Mastic is used in food , medicine , and industry . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"Acoustically , nasals have bands of energy at around 200 and 2,000 Hz . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+The stockyards became the focal point of the rise of some of the earliest international companies . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+"Military decorations , service awards , and medals are often mistakenly confused with one another . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+"Eventually , the caldera cooled , allowing rain and snow to accumulate and form a lake . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+The rosids consist of 17 orders . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",7
+Terns breed in noisy colonies and lay their eggs on bare ground with little or no nest material . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+A common use of a pinhole camera is to capture the movement of sunlight over a long period of time . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+All trains stop at every station along their route and run the entire length of their line from end to end . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+The meaning and intent are sometimes mirrored in different terms . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+A tactical offensive is an operation that is usually smaller or more limited . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"Interbrand competition was kept at a minimum , with superstars from all brands competing together only at pay-per-view events . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+"Apart from giving donations to major educational institutions throughout India , he introduced many educational reforms during his reign . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+Python is a good programming language for beginners . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+The direction and duration of waggle runs show the direction and distance to flowers . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+It seems likely that the standardization of the script will be greatly influenced by the need to typeset it on computers . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+All organisms studied contain many RNases of many different sorts . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"By 1851 , there were 15 asteroids , all but one with their own symbol . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The nouns and adjectives are created by removing the ending and thus obtaining the root . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+At straight rail 's inception there was no restriction on the manner of scoring . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+The frequency chosen for measuring candelas is in the visible spectrum near green . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+Derwentwater is very scenic . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",5
+Dragons in later Japanese folklore were influenced by Chinese and Indian myths . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+"He also persuaded his authority to buy new equipment because he wanted a modern , efficient police force . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"At first , this state of affairs might seem to be counter-intuitive . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+"Since 2006 , the duo has been seen frequently on variety shows and pursued individual careers . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+The testes have two primary functions  to produce hormones and to produce sperm . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+"The origin of the wedge is unknown , because it has been in use as early as the Stone Age . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+"Outside the walls of Rome , the powers of the consuls were far more extensive in their role as commanders - in- chief of all Roman legions . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",28
+"In most parts of the world , dial - up service was the most common way of connecting to the internet in the late 20th century . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+"Dial - up modem use in the US dropped to 60  by 2003 , and in 2006 stood at 36  . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",21
+The following tables summarize the usage share of all browsers for the indicated months . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+The amount of propellant can be measured either in units of mass or weight . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"Announced in the evening of polling day , the result was 56. 4  for against leaving and 43. 6  for independence . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+"In the overnight hours after formation , the storm was disorganized with a shabby and abstracted center of circulation . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+Its name was announced as Thrym in IAU Circular 8177 . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+Modern fishing reels are designed to help in casting for distance and accuracy . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+China may have used inoculation in the 10th century . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",10
+"When the need for a town crier disappeared , the position passed into local folklore . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+Larra lived long enough to prove himself a great prose-writer during the 19th century . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"In 1934 she was found living in poverty , and a retirement fund was established for her . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+Types of state can be separated into two categories  democracy and dictatorship . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+Not all scientists are convinced that the observed signatures are caused by a ring system . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The arts are usually considered as part of the humanities . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+Another example of gorillas ' significant intelligence is their ability to comprehend simple sign language . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The term gets its name from its use in the parliamentary system of government . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+The Classical Period also saw an increase in the use of statues and sculptures as decorations of buildings . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"Cicely leaves are sometimes used as a herb , with a strong taste of anise . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",16
+The earliest man-made composite materials were straw and mud combined to form bricks for building construction . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+Some friends acknowledge each other with exchanges of gifts and cards on this day . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"On April 1 , 2016 the case was heard by the court of appeals . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+"After several decades of prosperity , it entered a period of protracted political , military and economic decline . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+"A radar gun , used to measure the speed of cars or balls in sports , is usually calibrated with tuning forks . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",23
+Castration is commonly performed on domestic animals not intended for breeding . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"Each year , two consuls were elected together , to serve for a one - year term . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"A ballroom dance figure in which during the last step the moving foot passes the support foot , rather than closes to it . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"In some cultures , breasts play a role in human sexual activity . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",13
+On the day of her death she was reported to have held hands with her twin brother as she walked to her death . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+"As of January 23 , 2010 the death toll from the floods has risen to 68 with 26 others still missing . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+"Great part of his career , he had to deal with defending worshipping god in an environment of the anti-religious doctrine of communism . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+Millions of people were in lines over a three - day voting period . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+There are many ongoing questions about different aspects of photography . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+"By this time , she functioned as a doctor in natural medicine , and made a living visiting and nursing people . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+"The island had an economy of only one crop until 1966 , based on the cultivation and processing of New Zealand flax for rope and string . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+"By first plan , the movie would has the 300 m length on 10 minutes , 15 thousand drawings on the 18 x24 cm size of cellophane . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",28
+The Bear was considered a holy animal . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+"During the following years , a large number of important public and private buildings were erected . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",17
+Szeged and surrounding area has been inhabited since ancient time . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+Drumming is the central element of pungmul . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",8
+"The barn owls ' main characteristic is the heart- shaped facial disc , formed by stiff feathers which serve to amplify and locate the source of sounds when hunting . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",30
+Fire salamanders are found in most of southern and central Europe . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"Proponents believe the area somewhat corresponds to the historic County of Barcelona , although its extent is considerably different . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",20
+The bridge 's collapse had lasting effects on science and engineering . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+The dances included in the game are taken from the ABC TV show of the same name . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"A player character may sometimes be based on a real person , especially in sports games that use the names and likenesses of real sports people . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",27
+There exist more complicated algebraic solutions for the general cubic equation and quartic equation . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",15
+There is discussion whether the hotspot is caused by a deep mantle plume or at a shallower depth . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",19
+There are two kinds of unit load devices  pallets and boxes . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",12
+"For most of its 4. 5 billion - year lifetime , Wild 2 probably had a more distant and circular orbit . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",22
+"According to legend , one day two hunters were chasing a wild boar . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+Most of these positions can be used for either vaginal or anal sex . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",14
+Mania can also be caused by physical trauma or illness . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",11
+Calcium is very important for the human body . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+The French Tech aims to provide a strong common visual identity to French startups as well as to promote entrepreneurial exchanges between them . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+The interior also contained a pegboard chess board connected to a pantograph -style series of levers that controlled the model 's left arm . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",24
+Camellia plants usually have a rapid growth rate . ,B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",9
+"Wave heights in the scale are for conditions in the open ocean , not along the shore . ",B2,0,0,0,1,0,0,"[0, 0, 0, 1, 0, 0]",18
+"Using cylindrical coordinates , the volume of a right circular cylinder can be calculated by integration over",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+"Bisques are heavy cream soups traditionally prepared with shellfish , but can be made with any type of seafood or other base ingredients . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",24
+"Sigourney 's longitude and latitude coordinates in decimal form are 41. 333244 , -92. 203220 . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+"Though AASHTO is not a government body , it possesses quasi-governmental powers in the sense that the organizations that supply its members customarily obey most AASHTO decisions . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",28
+Krautchan .  net is a German- language imageboard whose  int  board is frequented by English-speaking netizens . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+A related example is the multiset of solutions of an algebraic equation . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",13
+Federalist No.  10 is generally regarded as the most important of the 85 articles from a philosophical perspective . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+"Commodus also had a passion for gladiatorial combat , which he took so far as to take to the arena himself , dressed as a secutor . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",27
+"A total of 1,084,000 rounds of ammunition had been taken and removed in thirteen lorries with no casualties . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+The central technique of the Socratic method is called an elenchus . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",12
+"When part of a monastery , the chapter house is generally located on the eastern wing of the cloister , which is next to the church . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",27
+Glass fiber is formed when thin strands of silica- based or other formulation glass are extruded into many fibers with small diameters suitable for textile processing . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",27
+"The typical elements of caper stories are humor , adventure , or unusual cleverness or audacity . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+The constant field and the pulse field are usually set perpendicular to each other . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"Smoking marijuana in public is still illegal , and anyone caught doing so will have to pay a  100 fine . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+British Fascism is based upon British Nationalism . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",8
+The thymus is largest and most active during the newborn and pre-adolescent periods . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",14
+A hypernym is sometimes also called an umbrella term or a blanket term . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",14
+Carolingian minuscule was the direct ancestor of blackletter . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",9
+"After it is fired , earthenware is opaque and non-vitreous , soft and capable of being scratched with a knife . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+"Postum is an instant type of coffee substitute made from roasted wheat bran , wheat and molasses . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+The balustrade is the system of railings and balusters that prevents people from falling over the edge . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+An alcohol and a carboxylic acid react to form a carboxylic ester . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",13
+Merged with Saxe Weimar into Saxe-Weimar-Eisenach,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",6
+"Life in a workhouse was intended to be harsh , to deter the able-bodied poor and to ensure that only the truly destitute would apply . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",26
+Odpor was banned in Germany for terrorist activities and operated between legitimate emigre functions and a thuggish underworld . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+"By the turn of the 3rd millennium , the term bogan came to be employed more favorably to indicate a pride in being rough around the edges . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",28
+"For vectors with complex entries , using the given definition of the dot product would lead to quite different geometric properties . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",22
+Axial compressors are dynamic rotating compressors that use arrays of fan-like airfoils to progressively compress a fluid . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+Cottontail rabbits show a greater resistance to myxomatosis than European rabbits . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",12
+The world championships of ringuette occur once in three years . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",11
+"A generalization of the above current loop is a multi-turn coil , or solenoid . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"Consider a hypothetical hotel with a countably infinite number of rooms , all of which are occupied . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+Epenthesis arises for a variety of reasons . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",8
+It can also be used as a gender neutral third person singular pronoun . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",14
+The triceps can be worked through either isolation or compound elbow extension movements and can contract statically to keep the arm straightened against resistance . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",25
+Shamanism is different from animism . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",6
+"Many experimental programmes have been run on the C651 cars , including the past program . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+Only 25  of people who experience seizures or status epilepticus have epilepsy . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",13
+"Upon its grand opening , the armory 's size seemed inadequate for a work force . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+"The longsword is characterized not so much by a longer blade , but by a longer grip , which indicates a weapon designed for two -handed use . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",28
+Religious law is explicitly based on religious precepts . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",9
+"Some of a subsidiary alliance were  Under this doctrine , Indian rulers under British protection surrendered the control of their foreign affairs to the British . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",26
+There are two main kinds of charter  bareboat and skippered . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",11
+"A bomb was hidden in an ambulance and detonated at a second police checkpoint , according to officials . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+Gaia is the personification of the Earth and these are her offspring as related in various myths . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+Some psychologists suggest irregularities of the English names of numerals may hinder children 's counting ability . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+The electron transport chain consists of a spatially separated series of redox reactions in which electrons are transferred from a donor molecule to an acceptor molecule . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",27
+Some types of chemotherapy are gonadotoxic and may cause infertility . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",11
+The parathyroid glands are two pairs of glands usually positioned behind the left and right lobes of the thyroid . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+"s of 2019 these are the only known Fermat primes , and conjecturally the only Fermat primes . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+STM is based on the concept of quantum tunneling . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",10
+The contemporary priesthood can trace its immediate origins to the first half of the 19th century . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+"Each V1 sends information to two primary pathways , called the ventral stream and the dorsal stream . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+"Bibliomania is not to be confused with bibliophilia , which is the usual love of books and is not considered a clinical psychological disorder . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",25
+"As the killer 's epithet implies , the victims usually were attacked with an axe , which often belonged to the victims themselves . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",24
+"Although it is toxic in large doses , selenium is an essential micronutrient for animals . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+Gummatous syphilis can happen anywhere from one to 46 years after the person first got syphilis . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+"A bloomery consists of a pit or chimney with heat - resistant walls made of earth , clay , or stone . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",22
+The constitutional court said the congressional resolution to be anti-constitutional and rejected it . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",14
+Coagulation is highly conserved throughout biology . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",7
+"The electronvolt is often used in atomic , nuclear and particle physics . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",13
+Homosociality is a term sometimes used in discussions of the all-male world of knightly life in medieval culture . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+One major function of chaperones is to prevent polypeptide chains and assembled subunits sticking together in clumps which do not function . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",22
+"In digital puppetry , machinima creators become virtual actors . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",10
+Thioethers are important in biology . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",6
+Stereochemistry was important in solving the thalidomide disaster in the 1960s . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",12
+"Because the brain can shift slightly during surgery , the electrodes can become displaced or dislodged from the specific location . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+"Leopoldo Alas remains a rather enigmatic figure in the Spanish literary world , leaving a legacy that encouraged the search for God and humanism simultaneously . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",26
+Scratch and sniff is created through the process of micro-encapsulation . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",11
+Cognitive dissonance theory proposes that people seek psychological consistency between their expectations of life and the existential reality of the world . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",22
+About half of the polyvinyl chloride resin manufactured each year is used to make pipes . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+"Duroplast is light , flexible , and strong . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",9
+"A duchy is the territory or geopolitical entity ruled by a duke , whereas his title or area is often called a dukedom . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",24
+The function or use of the dodecahedra remains a mystery ; no mention of them has been found in texts or pictures of the time . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",26
+"Many of the physical properties of alkenes and alkanes are similar  they are colorless , nonpolar , and combustable . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+"By May 2008 , Rickrolling had become an internet hit or phenomenon and very soon rickrolling was being covered on mainstream media . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",23
+"However , some people with schizophrenia have the ability to tickle themselves . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",13
+The anchoritic life is one of the earliest forms of Christian monasticism . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",13
+"Having filled the offices of quaestor and praetor with more than usual success , he obtained the consulship in 120 . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+Follies began as decorative accents on the great estates of the late 16th century and early 17th century but they flourished especially in the two centuries which followed . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",29
+"Chondroitin sulfate was originally isolated well before the structure was characterized , leading to changes in terminology with time . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+"Saffron 's aroma is often described by connoisseurs as reminiscent of metallic honey with grassy or hay - like notes , while its taste has also been noted as hay -like and sweet . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",34
+"Such a balance is seen more simply in sickle -cell anemia , which is found mostly in tropical populations in Africa and India . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",24
+There are different fields of deontological ethics . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",8
+Troubadour songs were mainly about chivalry and courtly love . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",10
+"As the sovereign 's representative in his or her county , a lord-lieutenant remains non-political and may not hold office in any political party . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",25
+"In mathematics all function applications are referentially transparent , by the definition of what constitutes a mathematical function . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+The exact identity of silphium is unclear . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",8
+"Rivlin had pulmonary fibrosis , a lung disease . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",9
+"When a woman starts to give birth , the amniotic sac should break and the amniotic fluid will leak out the woman 's vagina . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",25
+Isometric scaling is governed by the square- cube law . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",10
+Colchicine is an alternative treatment for people that are unable to tolerate NSAIDs . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",14
+"Like other columbids , the mourning dove drinks without lifting or tilting its head . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"Graphically , Goetzinger is known for her research and attention to detail , carefully rendered apparel and a style influenced by Art Nouveau . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",24
+The right to silence is a legal protection enjoyed by people undergoing police interrogation or trial in certain countries . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+The ingredients are diced and then mixed with kvass just before eating ; the ratio of chopped food to kvass is similar to that of cereal to milk . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",29
+"In parliamentary procedure , a motion is a proposal to do something . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",13
+The eroded sandstone formation stands about 75 ft tall and is about 300 ft in circumference . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+Sailing skiffs are the fastest and arguably most difficult type of dinghy to sail . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"The fallout of the weakening rhythm game market affected game developers , publishers and distributors . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+A complementary strand of DNA or RNA may be constructed based on nucleobase complementarity . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"Shortly before his first NHL training camp , Boynton was diagnosed with Type I Diabetes , but the condition did not affect his ability to play hockey . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",28
+Muscadine berries are bronze to dark purple to black in color when ripe . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",14
+"Nanomaterials can be classified in 0D , 1D , 2D and 3D nanomaterials . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",14
+Primary hypersomnias are very rare . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",6
+"Small versions of this instrument , called bird flageolets , were also made and were used for teaching birds to sing . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",22
+"Following the final orchestral crescendo , the song ends with one of the most famous final chords in music history . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+"One notable thing of Japanese mythology is that it explains the origin of the Imperial family , and assigned them divinity . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",22
+Products made from neem trees have been used in India for over two millennia for their medicinal properties . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+In the 19th century the lightning rod became a symbol of American ingenuity and a decorative motif . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+"Every civil parish has a parish meeting , consisting of all the electors of the parish . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+There is no evidence that pedophilia can be cured . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",10
+The seventeenth century saw a culinary revolution which transported French gastronomy into the modern era . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+Very few pyramidia have survived into modern times . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",9
+The mallard is a medium-sized waterfowl species that is often slightly heavier than most other dabbling ducks . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+A testing dipstick is usually made of paper or cardboard and is impregnated with reagents that indicate some feature of the liquid by changing color . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",26
+"In a synchronous stream cipher , the sender and receiver must be exactly in step for decryption to be successful . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+"After this , the digesta is moved to the true stomach , the abomasum . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"In some organisms , especially vertebrates , the various Hox genes are situated very close to one another on the chromosome in groups or clusters . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",26
+"They also appear in various folklore , remedies , and traditional usages around the world . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+"At room temperature , ethane is a flammable gas . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",10
+It has been estimated that most mammalian species have between ten and fifteen types of toll - like receptors . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+Polyhedra may be classified and are often named according to the number of faces . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"Most ants are univoltine , producing a new generation each year . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",12
+"In law , affinity may be relevant in relation to prohibitions on incestuous sexual relations and in relation to whether particular couples are prohibited from marrying . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",27
+"The line formation provided the best frontage for volley fire , while sacrificing maneuverability and defence against cavalry . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+"Some mathematical notations are mostly diagrammatic , and so are almost entirely script independent . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+Mammalian stem cells differentiate into several kinds of blood cell within the bone marrow . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"Bullfrogs are voracious , opportunistic , ambush predators that prey on any small animal they can overpower and stuff down their throats . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",23
+"By the 6th millennium BC , there may have been a prehistoric religion or cult . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+Hydrography 's origin lies in the making of chart like drawings and notations made by individual mariners . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+"The collective noun for a group of quail is a flock , covey or bevy . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+"Like other true members of the family , its surface is made up of silicates and some nickel -iron , and is quite bright . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",25
+Seven main rivers and innumerable watercourses form a network of channels at this estuarine delta . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+"If between 10 and 60 nucleotides are repeated , it is called a minisatellite . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"Male convicts got paid for being servants or farm workers to free settlers , or in work groups on public works . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",22
+"Liquid nitrogen has a variety of uses , as it is easy to transport , and compact . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+Muons are unstable elementary particles and are heavier than electrons and neutrinos but lighter than all other particles . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+"Since privatization , the structure of the rail industry and number of companies has changed several times as franchises have been re-let and the areas covered by franchises restructured . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",30
+Synchrotron light is very collimated . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",6
+Undulators can provide hundreds of time more magnetic flux than a simple bending magnet and as such are in high demand at synchrotron radiation facilities . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",26
+"Each time a cell undergoes mitosis , the telomeres on the ends of each chromosome shorten slightly . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",18
+"All tracheary elements develop a thick lignified cell wall , and at maturity the protoplast has broken down and disappeared . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+"In the Japanese cuisine , chefs often use shellfish and their roe in different dishes . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+All species of yew contain highly poisonous alkaloids known as taxanes . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",12
+He eventually had to relinquish painting because failing eyesight meant that he could not achieve the quality that he wanted . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+The shell of the abalone is exceptionally strong and is made of microscopic calcium carbonate tiles stacked like bricks . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+"As an example , the conversion of a diamond into graphite is a spontaneous process at room temperature and pressure . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+Constable painted many full-scale preliminary sketches of his landscapes to test the composition in advance of finished pictures . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+One legend says that the ship was doomed because priests were not allowed to board it in the customary manner . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+Chlorine dioxide is used to bleach wood pulp to make paper . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",12
+Classical ciphers are typically susceptible to known- plaintext attack . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",10
+The crossing over of optic nerve fibres at the optic chiasm allows the visual cortex to receive the same hemispheric visual field from both eyes . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",26
+Carbohydrates are a food source rich in energy . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",9
+Widespread private concerns have led to a number of folklore sayings and popular culture reflections related to penis size . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+"The area of study for pollen and spores , including fossils , is called palynology . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+Tardigrades are able to live in environments that would kill most animals . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",13
+"DBS for treatment resistant depression can be as effective as antidepressants , but side effects and complications need to be watched . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",22
+Mab is heavily perturbed . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",5
+"Mab is heavily perturbed , meaning its movement is not only caused by the gravity of another large thing . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+The statement that is being tested against the null hypothesis is the alternative hypothesis . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",15
+"The site consists of six concentric oval rings of postholes , the outermost being about 43 by wide . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+The primary flight controls are intrinsically safe . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",8
+"Many authors have indicated an integral link between a person 's will to live , personality , and the functions of the prefrontal cortex . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",25
+X-rays and UV radiation that is released by solar flares can affect Earth 's ionosphere . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+"Supernovae are the most dramatic type of cataclysmic variable , being some of the most energetic events in the universe . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+"The bank 's case , and failure amidst a political scandal is widely cited today in the Indian banking sector . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+A low normal to low absolute lymphocyte concentration is associated with increased rates of infection after surgery or trauma . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+A nail is homologous to a claw but is flatter and has a curved edge instead of a point . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+"In Greek mythology , many men and women were given eternal life by being resurrected from the dead . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",19
+A transport version of the Stormer with a flat load bed is used to carry the Shielder minelaying system . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",20
+A rational fraction is an algebraic fraction where the top and the bottom are polynomials . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+Distinguishing features of this earless seal include square fore flippers and thick bristles on its muzzle . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+"As the Mesozoic progressed , the Protosuchia gave rise to more typically crocodile - like forms . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+"Primate nails consist of the unguis alone , as the subunguis has disappeared . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",14
+"The neognaths have fused metacarpals , an elongate third finger , and 13 or fewer vertebrae . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",17
+Red junglefowl regularly bathe in dust to keep just the right balance in their plumage . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",16
+"Cephalocaridans are found from the intertidal zone down to a depth of 1500 metres , in all kinds of sediments . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",21
+"African wildcats are generally crepuscular , hunting at dawn and dusk . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",12
+"Plaintext is used as input to an encryption algorithm ; the output is usually termed ciphertext , particularly when the algorithm is a cipher . ",C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",25
+A select few languages use voiceless nasal consonants . ,C1,0,0,0,0,1,0,"[0, 0, 0, 0, 1, 0]",9
+"Imps are often described as mischievous more than seriously threatening , and as lesser beings rather than more important supernatural beings . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",22
+Surgical removal of the adenoid is a procedure called adenoidectomy . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",11
+Temporary abdominal closure techniques are most commonly used in cases of abdominal compartment syndrome in which decompressive laparotomy is necessary to reduce intra abdominal pressure to restore system perfusion . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",30
+Americium -Aluminum alloys are formed by the melting of americium dioxide with aluminum and a fluxing agent . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",18
+Three major pathways are involved in abnormal proliferation and contraction of the smooth-muscle cells of the pulmonary artery in patients with pulmonary arterial hypertension . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",25
+Gum arabic is a complex mixture of glycoproteins and polysaccharides predominantly consisting of arabinose and galactose . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",17
+The first step involves light opening the ring of 7 - dehydrocholesterol to form pre vitamin D3 . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",18
+An algorithm for finding the smallest superpermutation for 6 or more symbols is as of yet unsolved . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",18
+Another bee-inspired stigmergic computational technique called bee colony optimization is employed in Internet Server Optimization . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",16
+NK cells are cytotoxic ; small granules in their cytoplasm contain proteins such as perforin and proteases known as granzymes . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",21
+Cyberpunk and postcyberpunk authors have been interested by the idea of the breakdown of the government . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",17
+"As of 2008 , the best published cryptanalysis on the Twofish block cipher is a truncated differential cryptanalysis of the full 16 - round version . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",26
+Welded tuff is a pyroclastic flow of lava which was hot enough to weld together . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",16
+"The symptoms of CJD are caused by the progressive death of the brain 's nerve cells , which is associated with the build - up of abnormal prion protein molecules forming amyloids . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",33
+"With approximately 25 phonemes , the German consonant system has an average number of consonants in comparison with other languages . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",21
+Serum is an important part of the self-renewal of embryonic stem cells when combined with the cytokine leukemia inhibitory factor . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",21
+He is known from two inscriptions in hieroglyphics . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",9
+Entropy is simply a quantitative measure of what the second law of thermodynamics describes  the spreading of energy until it is evenly spread . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",24
+"Shiprock is composed of fractured volcanic breccia and black dikes of igneous rock called minette , or lamprophyre . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",19
+Massive hydrographical studies are usually undertaken by national or international organizations that sponsor data collection through surveys and publication of charts and descriptive materials for navigational purposes . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",28
+The glans penis is the expanded cap of the corpus spongiosum . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",12
+Zinc chloride irritates skin and the respiratory tract . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",9
+Species in the Araceae are often rhizomatous or tuberous and are often found to contain calcium oxalate crystals or raphides . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",21
+"The symptom may be helped by taking antacids , such as calcium carbonate and sodium bicarbonate . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",17
+"Constructing a cipher or hash to exhibit a substantial avalanche effect is one of the primary design objectives , and mathematically the construction takes advantage of the butterfly effect . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",30
+"In organisms that use chromosomal crossover to exchange DNA and recombine genes , errors in alignment during meiosis can also cause mutations . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",23
+The kinetoplastids were first defined by Bronislaw M.  Honigberg in 1963 as the members of the flagellated protozoans . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",19
+"In organic synthesis , an important dyotropic reaction is the conversion of 4 - substituted - gamma-lactones to butyrolactones . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",20
+"Within the modern synthesis of the early 20th century , macroevolution is thought of as the compounded effects of microevolution . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",21
+It follows from the second law of thermodynamics that the entropy of a system that is not isolated may decrease . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",21
+Most hormones initiate a cellular response by initially binding to either cell membrane associated or intracellular receptors . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",18
+"Different attack models are used for other cryptographic systems , or more generally for all kind of security systems . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",20
+The nasal septum can depart from the center line of the nose in a condition that is known as a deviated septum caused by trauma . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",26
+"Cattle have been domesticated since the neolithic era , but can survive for months or even years with little or no supervision . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",23
+Ophiuroids in general are mostly scavengers or detritivores . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",9
+"Blossom died on July 8 , 2011 at the age of 87 of cerebrovascular disease . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",16
+A description of any thermodynamic system employs the four laws of thermodynamics that form an axiomatic basis . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",18
+"However , recent research has shown that at least some prokaryotes have microcompartments such as carboxysomes . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",17
+The serous fluid contains the enzyme amylase which acts in the digestion of carbohydrates . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",15
+"Saliva contains the enzyme amylase , which hydrolyses starch into maltose and dextrin . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",14
+The nectar of some eucalypts produces high-quality monofloral honey . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",10
+Stratigraphic contour lines may be used to illustrate the surface of a selected stratum illustrating the subsurface topographic trends of the strata . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",23
+Potassium chromate is a carcinogen and strong oxidant . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",9
+The two testable structural consequences of the cosmological principle are homogeneity and isotropy . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",14
+Photolysis is part of the light- dependent reactions of photosynthesis . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",11
+Ammonium nitrate is not hazardous to health and is usually used in fertilizer products . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",15
+Small granules in their cytoplasm contain proteins and enzymes called granzymes . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",12
+A Tigrinya syllable may consist of a consonant -vowel or a consonant - vowel - consonant sequence . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",18
+Pharmacoepidemiology bridges pharmacology and epidemiology and borrows their methodology from both of them . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",14
+Dimethylmercury is extremely toxic and dangerous to handle . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",9
+"Because oxygen is more electronegative than carbon , carbonyl compounds often have resonance structures which affect their reactivity . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",19
+"In the US , greater than 200,000 surgeries are performed each year for pelvic organ prolapse and 81  of these are to correct cystocele . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",25
+The near-absence of genetic recombination in mitochondrial DNA makes it a useful source of information for scientists involved in population genetics and evolutionary biology . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",25
+"Of all aldehydes , formaldehyde is produced on the largest scale , about . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",14
+"The two aldehydes of greatest importance in industry , formaldehyde and acetaldehyde , have complicated behavior because of their tendency to oligomerize or polymerize . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",25
+One example of an epigenetic change in eukaryotic biology is the process of cellular differentiation . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",16
+"The Acanthocephala , a group of parasitic worms previously considered to be a separate phylum , have been shown to be modified rotifers . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",24
+The Acanthocephala were thought to be a discrete phylum . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",10
+Ammonium carbonate is produced by combining carbon dioxide and aqueous ammonia . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",12
+"Descendants of the therapsids , the cynodonts were still flourishing along with the dinosaurs . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",15
+"Huya has a moderately red-sloped reflectance spectrum in the visible and near-infrared , suggesting a surface rich in organic material such as tholins . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",24
+"There are three types of conics  the ellipse , parabola , and hyperbola . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",14
+"Adult Neuropterans have four membranous wings , all about the same size , with many veins . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",17
+Many species of chaetotonid gastrotrichs reproduce entirely by parthenogenesis . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",10
+"Antipsychotic medicines , such as haloperidol , are sometimes used along with benzodiazepines to control agitation or psychosis . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",19
+Bismuth chloride is used as a catalyst in organic synthesis . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",11
+A person consuming a dangerous amount of alcohol persistently can develop memory blackouts and idiosyncratic intoxication or pathological drunkenness symptoms . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",21
+"Most members of this family are ambush predators , in that they typically remain motionless in a camouflaged position , and then strike suddenly at passing prey . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",28
+"Scientists have got new evidence , based on new and better ways of finding dates , using optically stimulated luminescence and Uranium - thorium dating of megafaunal bones . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",29
+New evidence based on accurate optically stimulated luminescence and uranium - thorium dating of megafaunal remains suggests that humans were the ultimate cause of the extinction of megafauna in Australia . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",31
+Potassium bromate is produced when bromine is passed through a hot solution of potassium hydroxide . ,C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",16
+"Olfactory hallucinations can be caused by common medical conditions such as nasal infections , nasal polyps , or dental problems . ",C2,0,0,0,0,0,1,"[0, 0, 0, 0, 0, 1]",21
