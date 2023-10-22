@@ -8,16 +8,16 @@ The "IELTS Speaking Simulation" Android application is a unique and innovative p
 ## Key Highlights
 - **Architecture Design:** We designed the application's architecture with a strong focus on performance and usability, ensuring a seamless user experience.
 - **Data Collection and Preprocessing:** We collected and preprocessed the necessary data to train and evaluate our machine learning models effectively. Data that we have been use:
-1. Fluency: We collect from YouTube
-2. Lexical: We collect from 4 dataset
-3. Grammar: We use C4_200M grammar correction dataset
-4. Lexical: We use Speechocean762 Dataset
+  - Fluency: We collect from YouTube
+  - Lexical: We collect from 4 dataset
+  - Grammar: We use C4_200M grammar correction dataset
+  - Lexical: We use Speechocean762 Dataset
 - **Machine Learning Technologies:** Our project makes use of a wide range of machine learning tools and libraries, including Python, Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, PyTorch, and Transformers.
 - **Model Performance:**
-1. RNN-LSTM Model: Achieved an impressive 99% accuracy in assessing Fluency.
-2. Wav2Vec2 Transformers Model: Attained 82% accuracy in assessing Pronunciation.
-3. DistilBERT Transformers Model: Successfully evaluated Lexical skills with a 62% accuracy.
-4. T5 Transformers GEC Model: Recorded the lowest loss at 0.562 when assessing Grammar.
+  - RNN-LSTM Model: Achieved an impressive 99% accuracy in assessing Fluency.
+  - Wav2Vec2 Transformers Model: Attained 82% accuracy in assessing Pronunciation.
+  - DistilBERT Transformers Model: Successfully evaluated Lexical skills with a 62% accuracy.
+  - T5 Transformers GEC Model: Recorded the lowest loss at 0.562 when assessing Grammar.
 - **Collaborative Development:** We worked closely with UI/UX design experts to create a user-friendly interface using Figma. Additionally, we collaborated with the Back-End team to seamlessly integrate the machine learning models into the application using Docker, Google Cloud Platform, and Flask.
 
 ## Contact
