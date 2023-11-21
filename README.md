@@ -3,7 +3,7 @@
 Welcome to the repository for the "IELTS Speaking Simulation" Android application, a remarkable project led by me (Hafid Ikhsan Arifin) as a Machine Learning Developers as part of a College Capstone Project. In this repository, you'll find all the resources, code, and documentation related to our application.
 
 ## Project Description
-The "IELTS Speaking Simulation" Android application is a unique and innovative project designed to assist individuals in preparing for the IELTS Speaking test. This application leverages the power of machine learning to evaluate and provide feedback on various aspects of spoken English, including fluency, pronunciation, lexical skills, and grammar. Our team achieved remarkable results by developing and fine-tuning four distinct models for evaluating these IELTS Speaking test metrics.
+The "[IELTS Speaking Simulation](https://play.google.com/store/apps/details?id=com.ianindratama.ieltsspeakingsimulation&hl=en_US)" Android application is a unique and innovative project designed to assist individuals in preparing for the IELTS Speaking test. This application leverages the power of machine learning to evaluate and provide feedback on various aspects of spoken English, including fluency, pronunciation, lexical skills, and grammar. Our team achieved remarkable results by developing and fine-tuning four distinct models for evaluating these IELTS Speaking test metrics.
 
 ## Key Highlights
 - **Architecture Design:** We designed the application's architecture with a strong focus on performance and usability, ensuring a seamless user experience.
